@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ivan! <br/><a href="https://github.com/IALT1234">Programmer</a>, <a href="https://www.linkedin.com/in/ialuna/">Cybersecurity Professional</a>
+<h1>Hi, I'm Ivan! <br/><a href="https://github.com/IALT1234">Programmer</a>
 
 <h2>👨‍💻 Projects:</h2>
 
