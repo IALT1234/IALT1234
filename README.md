@@ -2,14 +2,13 @@
 
 <h2>👨‍💻 Projects:</h2>
 
-- <b>AI</b>
-  - [Stock Market Prediction](https://github.com/IALT1234/Stock-Prediction)
-  - [House Pricing](https://github.com/IALT1234/House-Pricing-Prediction/tree/main) <b><i>
-
 - <b>Software and Web Development</b>
   - [Chess-Game-Development](https://github.com/IALT1234/Chess-Game-Development)
   - [Web-Based Motor Control & Data Analysis](https://github.com/IALT1234/Probe-Testing-Page/tree/main)
 
+- <b>AI</b>
+  - [Stock Market Prediction](https://github.com/IALT1234/Stock-Prediction)
+  - [House Pricing](https://github.com/IALT1234/House-Pricing-Prediction/tree/main) <b><i>
 <h2> 🤳 Connect with me:</h2>
 
 
