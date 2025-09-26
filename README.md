@@ -3,6 +3,7 @@
 <h2>👨‍💻 Projects:</h2>
 
 - <b>Software and Web Development</b>
+  - [SPEAR-Flashcards-App](https://github.com/IALT1234/SPEAR)
   - [Chess-Game-Development](https://github.com/IALT1234/Chess-Game-Development)
   - [Web-Based Motor Control & Data Analysis](https://github.com/IALT1234/Probe-Testing-Page/tree/main)
 
