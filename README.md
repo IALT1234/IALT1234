@@ -9,7 +9,7 @@
 
 
     
-- <b>Data Analysys</b>
+- <b>Data Analysis</b>
   - [Web-Based Motor Control & Data Analysis](https://github.com/IALT1234/Probe-Testing-Page/tree/main) <b><i> (Javascript, Python, Flask, SQL, HTML)
  
     
