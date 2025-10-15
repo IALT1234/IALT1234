@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ivan! <br/><a href="https://github.com/IALT1234">Programmer</a>
+<h1>Ivan Luna <br/><a href="https://github.com/IALT1234">Programmer</a>
 
 <h2>👨‍💻 Projects:</h2>
 
