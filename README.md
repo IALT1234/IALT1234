@@ -11,7 +11,7 @@
     
 - <b>Data Analysis</b>
   - [Web-Based Motor Control & Data Analysis](https://github.com/IALT1234/Probe-Testing-Page/tree/main) <b><i> (Javascript, Python, Flask, SQL, HTML)
-  - [HotWire PyQT]([https://github.com/IALT1234/Probe-Testing-Page/tree/main](https://github.com/IALT1234/HoetWire-PyQT)) <b><i> (PyQT5, Python, HTML)
+  - [HotWire PyQT](https://github.com/IALT1234/HoetWire-PyQT)) <b><i> (PyQT5, Python, HTML)
 
     
 - <b>AI</b>
