@@ -4,14 +4,11 @@
 
 - <b>Software and Web Development</b>
   - [SPEAR Flashcards App](https://github.com/IALT1234/SPEAR) <b><i> (React)
-  - [Chess-Game-Development](https://github.com/IALT1234/Chess-Game-Development) <b><i> (Java)
-  - [MINER HAVEN Hotel Web-Page](https://github.com/UTEP-Agile-SP25/spring-2025-team-repository-team-12) <b><i> (React, Firebase)
-
-
-    
-- <b>Data Analysis</b>
   - [Web-Based Motor Control](https://github.com/IALT1234/Probe-Testing-Page/tree/main) <b><i> (Javascript, Python, Flask, SQL, HTML)
   - [HotWire PyQT](https://github.com/IALT1234/HoetWire-PyQT) <b><i> (PyQT5, Python, HTML)
+  - [MINER HAVEN Hotel Web-Page](https://github.com/UTEP-Agile-SP25/spring-2025-team-repository-team-12) <b><i> (React, Firebase)
+  - [Chess-Game-Development](https://github.com/IALT1234/Chess-Game-Development) <b><i> (Java)
+
 
     
 - <b>AI</b>
