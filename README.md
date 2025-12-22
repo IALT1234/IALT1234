@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Projects:</h2>
 
-- <b>Software and Web Development</b>
+- <b>Software and Development</b>
   - [SPEAR Flashcards App](https://github.com/IALT1234/SPEAR) <b><i> (React)
   - [Web-Based Motor Control](https://github.com/IALT1234/Probe-Testing-Page/tree/main) <b><i> (Javascript, Python, Flask, SQL, HTML)
   - [HotWire PyQT](https://github.com/IALT1234/HoetWire-PyQT) <b><i> (PyQT5, Python, HTML)
