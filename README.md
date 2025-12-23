@@ -1,6 +1,6 @@
 <h1>Ivan Luna <br/><a href="https://github.com/IALT1234">Programmer</a>
 
-<h2>👨‍💻 Projects:</h2>
+<h2>👨‍💻 Projects & Professional Experience:</h2>
 
 - <b>Software Development</b>
   - [SPEAR Flashcards App](https://github.com/IALT1234/SPEAR) <b><i> (React)
