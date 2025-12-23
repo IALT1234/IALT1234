@@ -1,6 +1,6 @@
 <h1>Ivan Luna <br/><a href="https://github.com/IALT1234">Programmer</a>
 
-<h2>👨‍💻 Projects & Professional Experience:</h2>
+<h2>Projects & Professional Experience:</h2>
 
 - <b>Software Development</b>
   - [SPEAR Flashcards App](https://github.com/IALT1234/SPEAR) <b><i> (React)
@@ -14,7 +14,7 @@
 - <b>AI</b>
   - [Stock Market Prediction](https://github.com/IALT1234/Stock-Prediction) <b><i> (Python, Jupyter Notebook)
   - [House Pricing](https://github.com/IALT1234/House-Pricing-Prediction/tree/main) <b><i> (Python, Jupyter Notebook)
-<h2> 🤳 Connect with me:</h2>
+<h2> Connect with me:</h2>
 
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
