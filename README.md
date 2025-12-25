@@ -28,7 +28,7 @@
   - [Stock Market Prediction](https://github.com/IALT1234/Stock-Prediction) <b><i> - (Python, Jupyter Notebook)
     - Program that predicts Netflix stock prices from 2018 to 2020.
   - [House Pricing](https://github.com/IALT1234/House-Pricing-Prediction/tree/main) <b><i> - (Python, Jupyter Notebook)
-    - Project analyze and predict housing prices using machine learning models.
+    - Project to analyze and predict housing prices using machine learning models.
  
 ## Interests
 - Backend and platform software engineering
