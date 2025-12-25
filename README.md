@@ -6,7 +6,7 @@
 <h2>Projects & Professional Experience:</h2>
 
 - <b>Software Development</b>
-  - [SPEAR Flashcards App](https://github.com/IALT1234/SPEAR) <b><i> - (React, FastAPI, JWT) 
+  - [SPEAR Flashcards App](https://github.com/IALT1234/SPEAR) <b><i> - (React, Python, FastAPI, JWT) 
     - Full-stack app with authentication and REST APIs.
     - Supports user-scoped data and persistent study workflows.
   - [Web-Based Motor Control](https://github.com/IALT1234/Probe-Testing-Page/tree/main) <b><i> - (JavaScript, Chart.js, Python, Flask, SQL, HTML)
