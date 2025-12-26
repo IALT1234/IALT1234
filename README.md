@@ -8,15 +8,16 @@
 
 
 <b><a href="https://github.com/IALT1234/SPEAR">SPEAR Flashcards App</a></b> <i> (React, Python, FastAPI, JWT)</i>
-<table> <tr> <td valign="top" width="55%"> <ul> <li>Full-stack application with authentication and REST APIs.</li> <li>User-scoped data with persistent study workflows.</li> </ul> </td> <td width="45%" align="center"> <img src="App_functioning.gif" width="420" style="border:1px solid #ccc; border-radius:6px;" /> </td> </tr> </table> ```
+<table> <tr> <td valign="top" width="55%"> <ul> <li>Full-stack application with authentication and REST APIs.</li> <li>User-scoped data with persistent study workflows.</li> </ul> </td> <td width="45%" align="center"> <img src="App_functioning.gif" width="380" /> </td> </tr> </table> ```
 
 
 <b><a href="https://github.com/IALT1234/Probe-Testing-Page/tree/main"> Web-Based Motor Control </a></b> <i> (JavaScript, Chart.js, Python, Flask, SQL)</i> 
-<table> <tr> <td valign="top" width="55%"> <ul> <li>Hardware-integrated control and visualization platform.</li> <li>Real-time sensor data collection and monitoring.</li> </ul> </td> <td width="45%" align="center"> <img src="IFCS_MAIN_TEST.gif" width="420" style="border:1px solid #ccc; border-radius:6px;" /> </td> </tr> </table> ```
+<table> <tr> <td valign="top" width="55%"> <ul> <li>Hardware-integrated control and visualization platform.</li> <li>Real-time sensor data collection and monitoring.</li> </ul> </td> <td width="45%" align="center"> <img src="IFCS_MAIN_TEST.gif" width="380" /> </td> </tr> </table> ```
 
 
-<b><a href="https://github.com/IALT1234/HoetWire-PyQT"> (PyQT5, Python)*  
-<table> <tr> <td valign="top" width="55%"> <ul> <li>Desktop application for running and visualizing laboratory experiments.</li>  </ul> </td> <td width="45%" align="center"> <img src="AppDemo.gif" width="420" style="border:1px solid #ccc; border-radius:6px;" /> </td> </tr> </table> ```
+<b><a href="https://github.com/IALT1234/HoetWire-PyQT"> HotWire PyQT </a></b>  <i> (PyQT5, Python) </i>
+<table> <tr> <td valign="top" width="55%"> <ul> <li>Desktop application for running and visualizing <br>
+laboratory experiments.</li>  </ul> </td> <td width="45%" align="center"> <img src="AppDemo.gif" width="380" </td> </tr> </table> ```
 
 
 ---
