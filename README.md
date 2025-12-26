@@ -5,43 +5,51 @@
 
 <h2>Projects & Professional Experience:</h2>
 
-- <b>Software Development</b>
-  - [SPEAR Flashcards App](https://github.com/IALT1234/SPEAR) <b><i> - (React, Python, FastAPI, JWT) 
-    - Full-stack app with authentication and REST APIs.
-    - Supports user-scoped data and persistent study workflows.
-  - [Web-Based Motor Control](https://github.com/IALT1234/Probe-Testing-Page/tree/main) <b><i> - (JavaScript, Chart.js, Python, Flask, SQL, HTML)
-    - Hardware-integrated control and visualization.
-    - Enables real-time collection, monitoring and organization of sensor data during experiments.
-  - [HotWire PyQT](https://github.com/IALT1234/HoetWire-PyQT) <b><i> - (PyQT5, Python)
-    - Experiment execution and visualization.
-    - Used to run and visualize laboratory experiments.
-   
-  
-  - [MINER HAVEN Hotel Web-Page](https://github.com/UTEP-Agile-SP25/spring-2025-team-repository-team-12) <b><i> -  (React, Firebase)
-    - Full-stack web app.
-  - [Chess-Game-Development](https://github.com/IALT1234/Chess-Game-Development) <b><i> - (Java, JUnit)
-    - Chess Game – Object-oriented Java application with accurate piece movement, board logic, and unit-tested rules. 
 
+
+<b><a href="https://github.com/IALT1234/SPEAR">SPEAR Flashcards App</a></b> <i> (React, Python, FastAPI, JWT)</i>
+<table> <tr> <td valign="top" width="55%"> <ul> <li>Full-stack application with authentication and REST APIs.</li> <li>User-scoped data with persistent study workflows.</li> </ul> </td> <td width="45%" align="center"> <img src="App_functioning.gif" width="420" style="border:1px solid #ccc; border-radius:6px;" /> </td> </tr> </table> ```
+
+
+<b><a href="https://github.com/IALT1234/Probe-Testing-Page/tree/main"> Web-Based Motor Control </a></b> <i> (JavaScript, Chart.js, Python, Flask, SQL)</i> 
+<table> <tr> <td valign="top" width="55%"> <ul> <li>Hardware-integrated control and visualization platform.</li> <li>Real-time sensor data collection and monitoring.</li> </ul> </td> <td width="45%" align="center"> <img src="IFCS_MAIN_TEST.gif" width="420" style="border:1px solid #ccc; border-radius:6px;" /> </td> </tr> </table> ```
+
+
+<b><a href="https://github.com/IALT1234/HoetWire-PyQT"> (PyQT5, Python)*  
+<table> <tr> <td valign="top" width="55%"> <ul> <li>Desktop application for running and visualizing laboratory experiments.</li>  </ul> </td> <td width="45%" align="center"> <img src="AppDemo.gif" width="420" style="border:1px solid #ccc; border-radius:6px;" /> </td> </tr> </table> ```
+
+
+---
+
+### Other Software Projects
+
+- **[MINER HAVEN Hotel Web App](https://github.com/UTEP-Agile-SP25/spring-2025-team-repository-team-12)** *(React, Firebase)*  
+  Full-stack web application with authentication and user workflows.
+
+- **[Chess Game Development](https://github.com/IALT1234/Chess-Game-Development)** *(Java, JUnit)*  
+  Object-oriented chess engine with accurate move logic and unit-tested rules.
+
+---
 
     
-- <b>Data & Machine Learning</b>
-  - [Stock Market Prediction](https://github.com/IALT1234/Stock-Prediction) <b><i> - (Python, Jupyter Notebook)
-    - Program that predicts Netflix stock prices from 2018 to 2020.
-  - [House Pricing](https://github.com/IALT1234/House-Pricing-Prediction/tree/main) <b><i> - (Python, Jupyter Notebook)
-    - Project to analyze and predict housing prices using machine learning models.
- 
+### Data & Machine Learning
+
+- **[Stock Market Prediction](https://github.com/IALT1234/Stock-Prediction)** *(Python, Jupyter Notebook)*  
+  Time-series modeling of Netflix stock prices (2018–2020).
+
+- **[House Pricing Prediction](https://github.com/IALT1234/House-Pricing-Prediction/tree/main)** *(Python, Jupyter Notebook)*  
+  Machine learning models for housing price analysis and prediction.
+
+---
+
 ## Interests
-- Backend and platform software engineering
-- Data-driven applications and APIs
-- Systems that interface with hardware or real-world processes
+- Backend and platform software engineering  
+- Data-driven applications and APIs  
+- Systems that interface with hardware or real-world processes  
 
+---
 
-<h2> Connect with me:</h2>
+## Connect with Me
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://www.linkedin.com/in/ialuna/
-
-
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ialuna/)
 
