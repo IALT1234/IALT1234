@@ -12,7 +12,7 @@
 <table> <tr> <td valign="top" width="55%"> <ul> <li>Hardware-integrated control and visualization platform.</li> <li>Real-time sensor data collection and monitoring.</li> </ul> </td> <td width="45%" align="center"> <img src="IFCS_MAIN_TEST.gif" width="380" /> </td> </tr> </table> ```
 
 <b><a href="https://github.com/IALT1234/SPEAR">SPEAR Flashcards App</a></b> <i> (React, Python, FastAPI, JWT)</i>
-<table> <tr> <td valign="top" width="55%"> <ul> <li>Full-stack application with authentication and REST APIs.</li> <li>User-scoped data with persistent study workflows.</li> </ul> </td> <td width="45%" align="center"> <img src="App_functioning.gif" width="380" /> </td> </tr> </table> ```
+<table> <tr> <td valign="top" width="55%"> <ul> <li>Full-stack application with authentication and REST APIs.</li> <li>User-scoped data with persistent study workflows.</li> </ul> </td> <td width="45%" align="center"> <img src="DEMO_2026.gif" width="380" /> </td> </tr> </table> ```
 
 
 
